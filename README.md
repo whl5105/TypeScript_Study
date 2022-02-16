@@ -10,7 +10,7 @@
 
 #### TypeScript로 작성한 코드는 타입 스크립트 컴파일러(tsc)를 통해 자바스크립트 코드로 변환되고 이후 실행 <br>(Transpiling 트랜스 파일링)
 
-- TypeScript는 javascript 환경에서 실행될 수 없다. 그 이유는 javascript가 실행되는 브라우저가 TypeScript 코드를 이해하지 못하기 때문이다. 따라서 TypeScript로 작성된 코드는 javascript로 다시 컴
+- TypeScript는 javascript 환경에서 실행될 수 없다. 그 이유는 javascript가 실행되는 브라우저가 TypeScript 코드를 이해하지 못하기 때문이다. 따라서 TypeScript로 작성된 코드는 javascript로 다시 컴파일 해주어야 한다. 
 
 <br>
 <br>
