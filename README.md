@@ -44,12 +44,14 @@ function add(a: number, b: number) {
   return a + b;
 }
 console.log(add("3", "5"));
-
 ```
 
 javascript의 데이터 타입이 String일 경우 콘솔에 35라는 String 값이 출력되며 우리는 아무런 에러 메시지를 받지 않게 된다. 이처럼 javascript에서 어떤 타입도 들어갈 수 있다. 이와 같은 타입의 제약 즉, loosely typed 언어는 프로그램의 유연성은 보장을 하지만 예측 가능하거나 아니면 안전한 코드를 구현하는 데에는 어려움이 있다.
 
 typeScript를 통해 타입을 표기해서 코드를 짜게되면 코드가 실행되기 전에 컴파일 에러 메시지를 받게 된다
 함수를 부를 때 argument type이 선언된 함수의 parameter의 타입 Number와 다르기 때문이다
+
+
+
 
 
