@@ -51,3 +51,5 @@ javascript의 데이터 타입이 String일 경우 콘솔에 35라는 String 값
 
 typeScript를 통해 타입을 표기해서 코드를 짜게되면 코드가 실행되기 전에 컴파일 에러 메시지를 받게 된다
 함수를 부를 때 argument type이 선언된 함수의 parameter의 타입 Number와 다르기 때문이다
+
+
