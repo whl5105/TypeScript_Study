@@ -31,7 +31,7 @@ let student = {
   course: "suin TypeScript",
   codingIQ: 80,
   code: function () {
-    console.log("hahaha");
+    console.log("hahahaha");
   },
 };
 student.name = 10; //컴파일 에러 발생
