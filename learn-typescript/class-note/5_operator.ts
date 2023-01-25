@@ -19,7 +19,7 @@ logMessage('hihi');
 logMessage(100);
 
 //유니온 타입이 장점 
-//특정 변수나 파라미터에 다양항 타입지정이 가능 
+//특정 변수나 파라미터에 다양한 타입지정이 가능 
 
 interface Developer {
   name: string;
