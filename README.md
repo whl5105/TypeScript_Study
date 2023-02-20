@@ -1,16 +1,16 @@
 > 📖 타입스크립트를 공부하며 기록하는 공간입니다.
 
 ### 📝 TypeScript 
-- [TypeScript란?]()
-- [Type Anotations]()
-- [Static Typing]()
-- [타입스크립트의 장점]()
-- [기본타입(Basic Type)]()
-- [인터페이스(Interface)]()
-- [타입별칭(Type Aliases)]()
-- [유니온,인터섹션타입(Union Type & Intersection Type)]()
-- [이넘(Enums)]()
-- [클래스형(class)]()
+- [TypeScript란?](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/TypeScript란.md)
+- [Type Anotations](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/Type%20Anotations.md)
+- [Static Typing](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/Static%20Typing.md)
+- [타입스크립트의 장점](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/타입스크립트의%20장점.md)
+- [기본타입(Basic Type)](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/기본타입(Basic%20Type).md)
+- [인터페이스(Interface)](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/인터페이스(Interface).md)
+- [타입별칭(Type Aliases)](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/타입별칭(Type%20Aliases).md)
+- [유니온,인터섹션타입(Union Type & Intersection Type)](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/유니온%2C인터섹션타입(Union%20Type%20%26%20Intersection%20Type).md)
+- [이넘(Enums)](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/이넘(Enums).md)
+- [클래스형(class)](https://github.com/whl5105/TypeScript_Study/blob/master/TypeScript/클래스형(class).md)
 
 
 
