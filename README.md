@@ -1,7 +1,17 @@
 > 📖 타입스크립트를 공부하며 기록하는 공간입니다.
 
 ### 📝 TypeScript 
-- [typeScript란?]()
+- [TypeScript란?]()
+- [Type Anotations]()
+- [Static Typing]()
+- [타입스크립트의 장점]()
+- [기본타입(Basic Type)]()
+- [인터페이스(Interface)]()
+- [타입별칭(Type Aliases)]()
+- [유니온,인터섹션타입(Union Type & Intersection Type)]()
+- [이넘(Enums)]()
+- [클래스형(class)]()
+
 
 
 ### 🚀 [TypeScript Exercises](https://typescript-exercises.github.io) 문제 해설 

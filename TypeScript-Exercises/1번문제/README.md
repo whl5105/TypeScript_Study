@@ -1,6 +1,5 @@
-
-
 ## 문제 풀이  
+> 타입 정의 
 > users 라는 배열속 name,age,occupation 의 객체를 가지고 있기 때문에 User Object 타입을 지정하여 타입 선언을 해주어 해결할 수 있었다.
 
 
