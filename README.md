@@ -6,7 +6,7 @@
 
 ### 🚀 TypeScript Exercises 문제 해설 
 > TypeScript Exercises 문제를 풀어보고 해결방법을 기록합니다. 
-- [1번 문제]() - solve 22.02.14 
+- [1번 문제](https://github.com/whl5105/TypeScript_Study/tree/master/TypeScript-Exercises/1번문제) - solve 22.02.14 
 - [2번 문제]() - solve 22.02.14
 - [3번 문제]() - solve 22.02.14
 - [4번 문제]() - solve 22.02.14
