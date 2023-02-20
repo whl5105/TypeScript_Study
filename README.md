@@ -17,10 +17,10 @@
 ### 🚀 [TypeScript Exercises](https://typescript-exercises.github.io) 문제 해설 
 > TypeScript Exercises 문제를 풀어보고 해결방법을 기록합니다. 
 - [1번 문제](https://github.com/whl5105/TypeScript_Study/tree/master/TypeScript-Exercises/1번문제) - solve 22.02.14 
-- [2번 문제]() - solve 22.02.14
-- [3번 문제]() - solve 22.02.14
-- [4번 문제]() - solve 22.02.14
-- [5번 문제]() - ready
+- [2번 문제](https://github.com/whl5105/TypeScript_Study/tree/master/TypeScript-Exercises/2번문제) - solve 22.02.14
+- [3번 문제](https://github.com/whl5105/TypeScript_Study/tree/master/TypeScript-Exercises/3번문제) - solve 22.02.14
+- [4번 문제](https://github.com/whl5105/TypeScript_Study/tree/master/TypeScript-Exercises/4번문제) - solve 22.02.14
+- [5번 문제](https://github.com/whl5105/TypeScript_Study/tree/master/TypeScript-Exercises/5번문제) - solve 22.02.20
 - [6번 문제]() - ready
 - [7번 문제]() - ready
 - [8번 문제]() - ready
