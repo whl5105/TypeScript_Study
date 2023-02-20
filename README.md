@@ -4,7 +4,7 @@
 - [typeScript란?]()
 
 
-### 🚀 TypeScript Exercises 문제 해설 
+### 🚀 [TypeScript Exercises](https://typescript-exercises.github.io) 문제 해설 
 > TypeScript Exercises 문제를 풀어보고 해결방법을 기록합니다. 
 - [1번 문제](https://github.com/whl5105/TypeScript_Study/tree/master/TypeScript-Exercises/1번문제) - solve 22.02.14 
 - [2번 문제]() - solve 22.02.14
@@ -24,7 +24,7 @@
 - [16번 문제]() - ready
 
 
-### 🚀 TypeScript Exercises 문제 해설 
+### 🚀 [TypeScript Challenges](https://github.com/type-challenges/type-challenges) 문제 해설 
 > TypeScript에서 제공하는 Type Challenges 문제를 풀어보고 해결방법을 기록합니다. 
 
 `warm-up`
